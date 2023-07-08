@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd6b86c6cbee81b4eb671088a37513fa, type: 3}
+  m_Name: CountryData
+  m_EditorClassIdentifier: 
+  countries:
+  - countryName: Turkey
+    countryFlag: {fileID: 21300000, guid: cdc2149857a074aacafa75873e375e26, type: 3}
+  - countryName: Japan
+    countryFlag: {fileID: 21300000, guid: 00fc846610b024ecf9b6d9b497cbe286, type: 3}
+  - countryName: China
+    countryFlag: {fileID: 21300000, guid: 1af1970b58e9a42e5b365731d49e450d, type: 3}
+  - countryName: Germany
+    countryFlag: {fileID: 21300000, guid: c2657b9df8f9e48fb84c4417b47e5920, type: 3}
+  - countryName: Sounth Korea
+    countryFlag: {fileID: 21300000, guid: 0da3b6c1a719249859abb2864ad75d6b, type: 3}
+  - countryName: Spain
+    countryFlag: {fileID: 21300000, guid: bd1697c1846d34643a6e91ac2cdf8e2a, type: 3}
+  - countryName: Portugal
+    countryFlag: {fileID: 21300000, guid: 2853eeb452a754777b2f240d217c9535, type: 3}
+  - countryName: Indonesia
+    countryFlag: {fileID: 21300000, guid: 01da09d3ef74b41a88aeb8a5e4fb2119, type: 3}
+  - countryName: Greece
+    countryFlag: {fileID: 21300000, guid: 58d44bb8923a749139cf4f2b5dc80e7b, type: 3}
+  - countryName: Sweden
+    countryFlag: {fileID: 21300000, guid: 4749db20949f14652b3636127b37c491, type: 3}
+  - countryName: Holland
+    countryFlag: {fileID: 21300000, guid: d046e94dd655e4b9fb99e19a5b69b563, type: 3}
+  - countryName: Italy
+    countryFlag: {fileID: 21300000, guid: 0efda3f16051540b88e96b26fd73933b, type: 3}
+  - countryName: Taiwan
+    countryFlag: {fileID: 21300000, guid: 285b5c9e33c7e42fe87593e02aac301a, type: 3}
+  - countryName: Ukraine
+    countryFlag: {fileID: 21300000, guid: c4897d35d2fb74116bd9362cc8d9aa50, type: 3}
+  - countryName: Thailand
+    countryFlag: {fileID: 21300000, guid: eaf63cd96c8104f589aa2541a206a5f1, type: 3}
+  - countryName: Romania
+    countryFlag: {fileID: 21300000, guid: fc2f5d609fdb24e2ab42ec989f7c0d20, type: 3}
+  - countryName: France
+    countryFlag: {fileID: 21300000, guid: 89f8acf856b2e4750a7749f92f308def, type: 3}
+  - countryName: Poland
+    countryFlag: {fileID: 21300000, guid: 0ea43b870df70469cafa894277d3bb4d, type: 3}
+  - countryName: Russia
+    countryFlag: {fileID: 21300000, guid: bdda05755eb8e4de788e752fda668fc7, type: 3}
+  - countryName: England
+    countryFlag: {fileID: 21300000, guid: a3196820b16eb4df588d8ef9f2671b8c, type: 3}
